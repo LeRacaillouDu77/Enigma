@@ -10,4 +10,6 @@ The first one is to know if you want to encrypt your message or you want to decr
 After you need to precise one position for each rotor (note that the number must be beetween 1 and 26 !)
 Finaly you can enter your message.
 
+This is the first version for the moment made on 04/09/2024.
+
 Thanks for using my program :)
